@@ -60,7 +60,7 @@ Partial Class EtchASketch
         Me.SelectColorButton.Location = New System.Drawing.Point(323, 379)
         Me.SelectColorButton.Name = "SelectColorButton"
         Me.SelectColorButton.Size = New System.Drawing.Size(151, 71)
-        Me.SelectColorButton.TabIndex = 0
+        Me.SelectColorButton.TabIndex = 2
         Me.SelectColorButton.Text = "&Select Color"
         Me.ToolTips.SetToolTip(Me.SelectColorButton, "Click to change color")
         Me.SelectColorButton.UseVisualStyleBackColor = True
@@ -84,7 +84,7 @@ Partial Class EtchASketch
         Me.ClearButton.Location = New System.Drawing.Point(166, 379)
         Me.ClearButton.Name = "ClearButton"
         Me.ClearButton.Size = New System.Drawing.Size(151, 71)
-        Me.ClearButton.TabIndex = 2
+        Me.ClearButton.TabIndex = 3
         Me.ClearButton.Text = "&Clear"
         Me.ToolTips.SetToolTip(Me.ClearButton, "Press to clear picture box")
         Me.ClearButton.UseVisualStyleBackColor = True
@@ -96,7 +96,7 @@ Partial Class EtchASketch
         Me.ExitButton.Location = New System.Drawing.Point(637, 377)
         Me.ExitButton.Name = "ExitButton"
         Me.ExitButton.Size = New System.Drawing.Size(151, 71)
-        Me.ExitButton.TabIndex = 3
+        Me.ExitButton.TabIndex = 0
         Me.ExitButton.Text = "E&xit"
         Me.ToolTips.SetToolTip(Me.ExitButton, "Click to exit out of program")
         Me.ExitButton.UseVisualStyleBackColor = True

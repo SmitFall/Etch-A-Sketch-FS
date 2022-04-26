@@ -2,7 +2,7 @@
 'RCET 0265
 'Spring 2022
 'Etch-A-Sketch
-'
+'https://github.com/SmitFall/Etch-A-Sketch-FS
 
 Option Explicit On
 Option Strict On
